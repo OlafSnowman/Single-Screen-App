@@ -1,0 +1,56 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:src="@drawable/death"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+         />
+
+    <TextView
+        android:text="UDACITY"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="16dp"
+        android:textSize="32sp"
+        android:textColor="#FFFFFF"
+        />
+
+    <TextView
+        android:id="@+id/hello"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2465 Latham St"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@id/android:text2"
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"/>
+
+    <TextView
+        android:id="@+id/android:text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Mountain View, CA 94043"
+        android:layout_above="@id/hi"
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"/>
+
+    <TextView
+        android:id="@+id/hi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="650-555-5555"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="16dp"/>
+</RelativeLayout>
