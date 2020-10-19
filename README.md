@@ -1,6 +1,9 @@
 # Single-Screen-App
 My first Android development project, building a single screen app within Android Stuido.
 
+# Technologies
+<p> Java SE 15
+
 # Concepts Learned
 <p>-Simple XML</p>
 <p>-Relative and Linear Layouts in Android development</p>
