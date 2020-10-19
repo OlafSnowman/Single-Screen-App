@@ -2,7 +2,8 @@
 My first Android development project, building a single screen app within Android Stuido.
 
 # Technologies
-<p> Java SE 15
+<p>-Java SE 15</p>
+<p>XML</p>
 
 # Concepts Learned
 <p>-Simple XML</p>
