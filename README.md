@@ -7,3 +7,4 @@ My first Android development project, building a single screen app within Androi
 <p>-Basics of Android Studio</p>
 
 # App Description
+![Screenshot_1603068300](https://user-images.githubusercontent.com/44735420/96390603-18d20a00-117b-11eb-8d0d-02cd0696e552.png)
