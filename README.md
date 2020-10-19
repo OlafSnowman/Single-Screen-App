@@ -3,7 +3,7 @@ My first Android development project, building a single screen app within Androi
 
 # Technologies
 <p>-Java SE 15</p>
-<p>XML</p>
+<p>-XML</p>
 
 # Concepts Learned
 <p>-Simple XML</p>
